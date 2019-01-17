@@ -1,0 +1,14 @@
+{
+  "name": "Content-Nextcloud-Proxy",
+  "version": "1.0.0",
+  "description": "Test Proxy Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ba-schulcloud",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
